@@ -1,0 +1,20 @@
+# Unity generated files
+Library/
+Temp/
+Logs/
+UserSettings/
+Build/
+
+# Vuforia files
+Library/PackageCache/com.ptc.vuforia.engine*/
+
+# Large files
+*.aar
+*.dylib
+*.tgz
+
+# Other files and directories to ignore
+obj/
+*.log
+*.apk
+*.unitypackage
